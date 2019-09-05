@@ -43,7 +43,6 @@ publishing {
             groupId PUBLISH_GROUP_ID
             artifactId PUBLISH_ARTIFACT_ID
             version PUBLISH_VERSION + '-SNAPSHOT'
-
             //artifact bundleRelease
         }
     }
